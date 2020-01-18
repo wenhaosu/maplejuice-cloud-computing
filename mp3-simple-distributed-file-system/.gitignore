@@ -1,0 +1,12 @@
+.idea/
+cmake-build-debug/
+*.out
+.DS_Store
+result
+*client
+*server
+vm.log
+logfiles/
+mp2.log
+files/sdfs/*
+files/fetched/*

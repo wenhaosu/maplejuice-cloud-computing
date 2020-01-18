@@ -1,0 +1,9 @@
+.idea/
+cmake-build-debug/
+*.out
+.DS_Store
+result
+client
+server
+vm.log
+logfiles/
